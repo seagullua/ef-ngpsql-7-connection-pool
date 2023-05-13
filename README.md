@@ -1,0 +1,1 @@
+# ef-ngpsql-7-connection-pool
